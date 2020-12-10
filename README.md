@@ -2,7 +2,7 @@
 # Summary
 Classic 1 person Pong Game created in Ruby using the ruby2d gem [ruby2d](http://www.ruby2d.com/).
 
-![ruby_pong](https://github.com/skhanbhai/Pong-Game-Ruby/PongGame.png)
+![ruby_pong](https://github.com/skhanbhai/Pong-Game-Ruby/blob/main/PongGame.PNG)
 
 # Install 
 
