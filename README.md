@@ -1,4 +1,4 @@
-# Pong-Game-Ruby
+# Pong Game (Ruby)
 # Summary
 Classic 1 person Pong Game created in Ruby using the ruby2d gem [ruby2d](http://www.ruby2d.com/).
 
